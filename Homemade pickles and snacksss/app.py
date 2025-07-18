@@ -29,8 +29,8 @@ SNS_TOPIC_ARN = 'YOUR_SNS_TOPIC_ARN'  # Replace this with your SNS topic ARN
 # Email config
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
-EMAIL_ADDRESS = 'mounika030721@gmail.com'
-EMAIL_PASSWORD = 'ggzr vytt lqpr aplh'
+EMAIL_ADDRESS = 'janakilakshmi1217@gmail.com'
+EMAIL_PASSWORD = 'uvyk ickn remk ozrq'
 
 # Product data with more items
 veg_pickles = [
